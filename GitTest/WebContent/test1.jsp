@@ -12,6 +12,7 @@ update2
 myupdate
 gitupdate
 이클립스에서 테스트 중
-git에서 테스트 
+git에서 테스트
+테스트 테스트 머지로 
 </body>
 </html>
